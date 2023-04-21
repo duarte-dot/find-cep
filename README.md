@@ -1,5 +1,5 @@
-## encontra CEP
+## Encontra CEP
 
-consulte seu cep
+retorna um objeto contendo as informações relacionadas ao seu CEP.
 
 https://joyous-swim.surge.sh/
