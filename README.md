@@ -1,5 +1,5 @@
-## Encontra CEP
+## Find CEP
 
-retorna um objeto contendo as informações relacionadas ao seu CEP.
+Returns an object containing information related to your ZIP code.
 
 https://joyous-swim.surge.sh/
